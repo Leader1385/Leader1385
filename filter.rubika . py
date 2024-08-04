@@ -7,7 +7,8 @@ system("clear")
 
 bnr = (Fore.LIGHTGREEN_EX+f"""
 
-LEADER(PAHLAVI)
+    LEADER(PAHLAVI)
+    sarhang(Cloner)
 
       ╲ ▁▂▂▂▁ ╱
       ▄███████▄   
